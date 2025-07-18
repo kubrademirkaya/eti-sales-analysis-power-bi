@@ -52,7 +52,7 @@ Projede kullanılan ana sayısal kolonların (örneğin `TOTALPRICE`, `AMOUNT`, 
 ## Projeyi Açma ve Kullanma
 
 1.  Bu GitHub deposunu klonlayın veya zip olarak indirin.
-2.  `EtiSatisAnalizDashboard.pbix` dosyasını Microsoft Power BI Desktop ile açın.
+2.  'EtiSatisAnalizDashboard.zip' içindeki `EtiSatisAnalizDashboard.pbix` dosyasını Microsoft Power BI Desktop ile açın.
 3.  Rapor sayfaları arasında gezinmek için sol paneldeki navigasyon butonlarını ve filtreleri kullanın.
 4.  Görselleştirmelerle etkileşime geçerek verileri keşfedin.
 
