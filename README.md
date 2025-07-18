@@ -42,6 +42,12 @@ Raporun tasarımı, Eti markasının güçlü görsel kimliğini yansıtırken, 
 ##  Kullanılan Teknolojiler
 
 * **Microsoft Power BI Desktop:** Veri modelleme, ETL (Extract, Transform, Load) süreçleri, DAX (Data Analysis Expressions) ölçüleri oluşturma ve etkileşimli görselleştirmeler tasarlama için kullanılmıştır.
+* **Python (Pandas, SciPy):** Veri setinin detaylı istatistiksel analizleri (ortalama, medyan, standart sapma, vb.) için kullanılmıştır.
+* **Microsoft Excel:** Büyük veri setleri için istatistiksel özetlerin doğrulanması ve belirli hesaplamaların yapılması amacıyla destekleyici araç olarak kullanılmıştır.
+
+##  Veri İstatistikleri Hesaplaması
+
+Projede kullanılan ana sayısal kolonların (örneğin `TOTALPRICE`, `AMOUNT`, `unitprice`, `linetotal`) temel istatistiksel özellikleri (ortalama, medyan, standart sapma, minimum, maksimum, çeyreklikler) Python'da Pandas kütüphanesi ve Excel'deki ilgili fonksiyonlar kullanılarak detaylı bir şekilde analiz edilmiştir. Bu istatistikler, veri setinin yapısını, potansiyel aykırı değerleri ve dağılımın şeklini anlamada kritik rol oynamıştır.
 
 ## Projeyi Açma ve Kullanma
 
